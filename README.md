@@ -9,3 +9,7 @@ https://developer.apple.com/videos/play/wwdc2019/415/
   - Great Developer Habits
 
  https://developer.apple.com/videos/play/wwdc2019/239/
+
+  - Testing in Xcode
+ 
+ https://developer.apple.com/wwdc19/413
