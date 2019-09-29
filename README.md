@@ -13,3 +13,7 @@ https://developer.apple.com/videos/play/wwdc2019/415/
   - Testing in Xcode
  
  https://developer.apple.com/wwdc19/413
+
+  - SwiftUI Essentials
+ 
+ https://developer.apple.com/videos/play/wwdc2019/216/
